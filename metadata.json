@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Crucible — 2.5D Battle Arena",
+  "description": "Top-down 2.5D AI survival battle arena featuring six distinct hero archetypes, raycast fog-of-war, stealth bushes, HDR skill effects, and 2D/3D camera switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
